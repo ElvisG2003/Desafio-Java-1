@@ -7,4 +7,4 @@ Este proyecto permite agregar amigo a una lista y sortearlos al azar.
 # USO
 La pagina consta de 2 botones; uno para agregar amigos a la lista en si, y otro para hacer el sorteo.
 
-
+![Vista previa del proyecto](assets/Prueba-de-uso.gif)
